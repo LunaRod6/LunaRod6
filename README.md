@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 -  I’m looking for help with: Web delevopment tips.
 -  Pronouns: He/Him
 -  Fun fact: I love videogames and want to have my own video game company one day.
+-  Bay Area, CA.
 
