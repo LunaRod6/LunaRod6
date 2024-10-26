@@ -1,8 +1,5 @@
 # About me
 
-
-Here are some ideas to get you started:
-
 -  I’m currently learning: Web development.
 -  I’m looking to collaborate on: Beginner projects.
 -  I’m looking for help with: Web delevopment tips.
